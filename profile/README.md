@@ -1,4 +1,4 @@
-## Meshtastic Argentina Group
+## Meshtastic Argentina Community
 
 A group dedicated to provide information and cooperative assistance about the topic of the Meshtastic network https://meshtastic.org/ in Argentina.
 
