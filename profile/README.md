@@ -5,13 +5,14 @@ Grupo dedicado a la información y ayuda cooperativa sobre la red Meshtastic htt
 ### Unite a nuestro grupo de Telegram en https://t.me/meshtastic_argentina
 
 ---
-### Canales activos en Meshtastic Argentina
+### Canales activos (secundarios) en Meshtastic Argentina
 | Canal | PSK | Región |
 |--------|-----------|--------|
 | BairesMesh | aB3K7ZIciBKq49nxn5gVmPQEtbTUVZOHKxuCaCKaHtA= | CABA & AMBA 
 | RosarioMesh | kss+4MMhc9unauU8i6bix0Lt/pkjWMv1PIFr0fH8g58= | Rosario 
 | NQNmesh | B7jYDJLWy9TSnajWI/yAJETLBcjN2RNXUU4jS4eRyJo= | Neuquén
 
+(como primario se está utilizando LongFast) y la región adecuada según la resolución de la ENACOM es ANZ (Australia/New Zeland)
 ---
 A group dedicated to provide information and cooperative assistance about the topic of the Meshtastic network https://meshtastic.org/ in Argentina.
 
