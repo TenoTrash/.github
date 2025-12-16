@@ -12,6 +12,8 @@ Grupo dedicado a la información y ayuda cooperativa sobre la red Meshtastic htt
 | RosarioMesh | kss+4MMhc9unauU8i6bix0Lt/pkjWMv1PIFr0fH8g58= | Rosario 
 | NQNmesh | B7jYDJLWy9TSnajWI/yAJETLBcjN2RNXUU4jS4eRyJo= | Neuquén
 | CordobaMesh |  CoRd0B4lHaBoN6OWT0u2EvNX9Jci7gsIiIJtD30BCCw= | Córdoba
+| ERMesh | w9nTAUTYp2eFo7KyCfo5a42YSM4ewfrV/PSoxcjrAPI= | Entre Ríos
+| MendozaMesh | yVyN1359YQb0S1LW2cslgMrXHbTkHnR1TSHYDa7VCCs= | Mendoza
 
 ### ¡ Como primario estamos utilizando LongFast !
 
